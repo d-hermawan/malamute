@@ -1,0 +1,3 @@
+These anisotropy files are experimental and requires some kernels not existing in the current MOOSE (August 23, 2023) branch. Some of the kernels and actions are added here for backup, but it may have undergone changes by the time these input files are stored here.
+
+Please make sure the kernels and actions exist since it was setup but never completed.
